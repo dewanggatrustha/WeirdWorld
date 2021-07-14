@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+application
+ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:10:5-36:19
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-35:19
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-35:19
+	android:label
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:12:9-52
+	android:allowBackup
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:14:9-40
+activity#org.droidfoot.weirdworld.WeirdWorldActivity
+ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:15:11-23:20
+	android:label
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:16:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:21:27-74
+activity#org.droidfoot.DroidfootActivity
+ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:24:11-27:20
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-26:20
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:25:13-59
+activity#org.droidfoot.HelpActivity
+ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:28:9-31:20
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:9-30:20
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:29:13-54
+activity#org.droidfoot.SettingsActivity
+ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:32:9-35:20
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-34:20
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:34:13-60
+	android:name
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml:33:13-58
+uses-sdk
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:droidfoot] D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+		ADDED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\Code\AndroidStudioProjects\WeirdWorld\dFTemplate\src\main\AndroidManifest.xml

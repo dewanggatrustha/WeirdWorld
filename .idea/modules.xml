@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeirdWorld.iml" filepath="$PROJECT_DIR$/.idea/modules/WeirdWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dFTemplate/WeirdWorld.dFTemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/dFTemplate/WeirdWorld.dFTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/droidfoot/WeirdWorld.droidfoot.iml" filepath="$PROJECT_DIR$/.idea/modules/droidfoot/WeirdWorld.droidfoot.iml" />
+    </modules>
+  </component>
+</project>

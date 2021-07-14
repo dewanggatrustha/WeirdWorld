@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.droidfoot"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="14" />
+9-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml
+10    <!-- <uses-sdk -->
+11    <!-- android:minSdkVersion="14"&ndash;&gt; -->
+12    <!-- android:targetSdkVersion="14" /> -->
+13    <application
+13-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:11:3-33:19
+14        android:allowBackup="true"
+14-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:12:9-35
+15        android:icon="@drawable/droidfoot_launcher"
+15-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:13:9-52
+16        android:label="@string/app_name"
+16-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:14:9-41
+17        android:theme="@style/AppTheme" >
+17-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:15:9-40
+18        <activity
+18-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:16:9-24:20
+19            android:name="org.droidfoot.DroidfootActivity"
+19-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:17:13-59
+20            android:label="@string/app_name" >
+20-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:18:13-45
+21            <intent-filter>
+21-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:19:13-23:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:20:17-69
+22-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:20:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:22:17-77
+24-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:22:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity
+27-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:25:9-28:20
+28            android:name="org.droidfoot.HelpActivity"
+28-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:26:13-54
+29            android:label="@string/title_activity_help" >
+29-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:27:13-56
+30        </activity>
+31        <activity
+31-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:29:9-32:20
+32            android:name="org.droidfoot.SettingsActivity"
+32-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:30:13-58
+33            android:label="@string/title_activity_settings" >
+33-->D:\Dev\Code\AndroidStudioProjects\WeirdWorld\droidfoot\src\main\AndroidManifest.xml:31:13-60
+34        </activity>
+35    </application>
+36
+37</manifest>
